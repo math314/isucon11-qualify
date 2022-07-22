@@ -1,3 +1,5 @@
+updating for checking github permission
+
 # isucon11-qualify
 
 ## ディレクトリ構成
